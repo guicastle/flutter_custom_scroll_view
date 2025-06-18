@@ -1,5 +1,3 @@
----
-
 ## Mastering Scrolling Layouts with `CustomScrollView` and `SliverToBoxAdapter` in Flutter
 
 Creating flexible and optimized scrolling user interfaces in Flutter can be challenging, especially when you need to mix different widget types—like a static title, an efficient horizontal list (`ListView.builder`), and other elements—all within a **single scrolling context**. Many developers encounter the problem of nested "double scrolls" or elements that don't scroll as expected.
