@@ -31,7 +31,7 @@ By exploring the source code, you'll see how each part of the layout is carefull
 
 ====================================================
 
-## Dominando Layouts Rascunho com `CustomScrollView` e `SliverToBoxAdapter` no Flutter
+## Dominando Layouts com `CustomScrollView` e `SliverToBoxAdapter` no Flutter
 
 Criar interfaces de usuário flexíveis e otimizadas para rolagem no Flutter pode ser um desafio, especialmente quando precisamos misturar diferentes tipos de widgets — como um título estático, uma lista horizontal eficiente (`ListView.builder`) e outros elementos — tudo dentro de um **único contexto de rolagem**. Muitos desenvolvedores se deparam com o problema de "dois scrolls" aninhados ou de elementos que não rolam como esperado.
 
